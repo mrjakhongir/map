@@ -1,4 +1,3 @@
-import React from 'react';
 import { Marker } from 'react-map-gl';
 import Popup from '../Popup';
 import { Place } from '../../lib/definitions';

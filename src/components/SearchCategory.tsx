@@ -1,5 +1,3 @@
-import React from 'react';
-
 function SearchCategory() {
 	return (
 		<div className='bg-[#9e6828] pl-4 pr-4 p-2 flex items-center justify-between gap-5'>
