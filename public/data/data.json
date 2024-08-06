@@ -1,0 +1,366 @@
+{
+	"attractions": [
+		{
+			"type": "attractions",
+			"location": "Frankfurt",
+			"title": "Römer",
+			"description": "A medieval building in the heart of Frankfurt, serving as the city hall for over 600 years.",
+			"address": "Römerberg 27, 60311 Frankfurt am Main, Germany",
+			"img": "/images/flag.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.110924, "longitude": 8.682127 }
+		},
+		{
+			"type": "attractions",
+			"location": "Frankfurt",
+			"title": "Palmengarten",
+			"description": "A beautiful botanical garden with a wide variety of plants and themed areas.",
+			"address": "Siesmayerstraße 61, 60323 Frankfurt am Main, Germany",
+			"img": "/images/flag.svg",
+			"phone": "+49 69 21233939",
+			"coordinates": { "latitude": 50.125761, "longitude": 8.652222 }
+		},
+		{
+			"type": "attractions",
+			"location": "Frankfurt",
+			"title": "Städel Museum",
+			"description": "One of Germany's most important art museums, featuring European art from seven centuries.",
+			"address": "Schaumainkai 63, 60596 Frankfurt am Main, Germany",
+			"img": "/images/flag.svg",
+			"phone": "+49 69 6050980",
+			"coordinates": { "latitude": 50.103255, "longitude": 8.673043 }
+		},
+		{
+			"type": "attractions",
+			"location": "Frankfurt",
+			"title": "Main Tower",
+			"description": "A prominent skyscraper offering an observation deck with panoramic views of Frankfurt.",
+			"address": "Neue Mainzer Str. 52-58, 60311 Frankfurt am Main, Germany",
+			"img": "/images/flag.svg",
+			"phone": "+49 69 36504740",
+			"coordinates": { "latitude": 50.112289, "longitude": 8.669671 }
+		},
+		{
+			"type": "attractions",
+			"location": "Frankfurt",
+			"title": "Senckenberg Natural History Museum",
+			"description": "One of the largest natural history museums in Germany, known for its extensive dinosaur collection.",
+			"address": "Senckenberganlage 25, 60325 Frankfurt am Main, Germany",
+			"img": "/images/flag.svg",
+			"phone": "+49 69 75420",
+			"coordinates": { "latitude": 50.117252, "longitude": 8.651715 }
+		}
+	],
+	"dining": [
+		{
+			"type": "dining",
+			"location": "Frankfurt",
+			"title": "Apfelwein Wagner",
+			"description": "A popular spot for traditional German apple wine and hearty local dishes.",
+			"address": "Schweizer Str. 71, 60594 Frankfurt am Main, Germany",
+			"img": "images/dining.svg",
+			"phone": "+49 69 612565",
+			"coordinates": { "latitude": 50.10184, "longitude": 8.680987 }
+		},
+		{
+			"type": "dining",
+			"location": "Frankfurt",
+			"title": "Main Tower Restaurant & Lounge",
+			"description": "A stylish restaurant offering international cuisine with stunning views over the city.",
+			"address": "Neue Mainzer Str. 52-58, 60311 Frankfurt am Main, Germany",
+			"img": "images/dining.svg",
+			"phone": "+49 69 36504747",
+			"coordinates": { "latitude": 50.112289, "longitude": 8.669671 }
+		},
+		{
+			"type": "dining",
+			"location": "Frankfurt",
+			"title": "Margarete",
+			"description": "A contemporary restaurant serving modern German cuisine in a stylish setting.",
+			"address": "Braubachstraße 18-22, 60311 Frankfurt am Main, Germany",
+			"img": "images/dining.svg",
+			"phone": "+49 69 21997766",
+			"coordinates": { "latitude": 50.111089, "longitude": 8.682115 }
+		},
+		{
+			"type": "dining",
+			"location": "Frankfurt",
+			"title": "Villa Merton",
+			"description": "An elegant restaurant located in a historic villa, offering creative cuisine with local ingredients.",
+			"address": "Am Leonhardsbrunn 12, 60322 Frankfurt am Main, Germany",
+			"img": "images/dining.svg",
+			"phone": "+49 69 703033",
+			"coordinates": { "latitude": 50.126522, "longitude": 8.668756 }
+		},
+		{
+			"type": "dining",
+			"location": "Frankfurt",
+			"title": "Seven Swans",
+			"description": "A unique dining experience in a narrow skyscraper, serving seasonal and vegetarian dishes.",
+			"address": "Mainkai 4, 60311 Frankfurt am Main, Germany",
+			"img": "images/dining.svg",
+			"phone": "+49 69 90505996",
+			"coordinates": { "latitude": 50.110398, "longitude": 8.685781 }
+		}
+	],
+	"shoppingAndMerchants": [
+		{
+			"type": "shoppingAndMerchants",
+			"location": "Frankfurt",
+			"title": "Zeil",
+			"description": "Frankfurt's most famous shopping street, home to a wide range of shops, department stores, and boutiques.",
+			"address": "Zeil, 60313 Frankfurt am Main, Germany",
+			"img": "images/cart.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.11446, "longitude": 8.678144 }
+		},
+		{
+			"type": "shoppingAndMerchants",
+			"location": "Frankfurt",
+			"title": "MyZeil",
+			"description": "A modern shopping center with a unique architecture, offering a variety of shops and dining options.",
+			"address": "Zeil 106, 60313 Frankfurt am Main, Germany",
+			"img": "images/cart.svg",
+			"phone": "+49 69 2972370",
+			"coordinates": { "latitude": 50.114942, "longitude": 8.68083 }
+		},
+		{
+			"type": "shoppingAndMerchants",
+			"location": "Frankfurt",
+			"title": "Kleinmarkthalle",
+			"description": "A bustling indoor market hall offering fresh produce, specialty foods, and international delicacies.",
+			"address": "Hasengasse 5-7, 60311 Frankfurt am Main, Germany",
+			"img": "images/cart.svg",
+			"phone": "+49 69 21233696",
+			"coordinates": { "latitude": 50.112876, "longitude": 8.685355 }
+		},
+		{
+			"type": "shoppingAndMerchants",
+			"location": "Frankfurt",
+			"title": "Goethestraße",
+			"description": "An exclusive shopping street known for luxury brands and designer boutiques.",
+			"address": "Goethestraße, 60313 Frankfurt am Main, Germany",
+			"img": "images/cart.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.114092, "longitude": 8.673317 }
+		},
+		{
+			"type": "shoppingAndMerchants",
+			"location": "Frankfurt",
+			"title": "Skyline Plaza",
+			"description": "A large shopping mall featuring a wide array of shops, a fitness center, and a rooftop garden.",
+			"address": "Europa-Allee 6, 60327 Frankfurt am Main, Germany",
+			"img": "images/cart.svg",
+			"phone": "+49 69 25782820",
+			"coordinates": { "latitude": 50.109787, "longitude": 8.652142 }
+		}
+	],
+	"parks": [
+		{
+			"type": "parks",
+			"location": "Frankfurt",
+			"title": "Palmengarten",
+			"description": "A lush botanical garden showcasing a variety of exotic plants and themed gardens.",
+			"address": "Siesmayerstraße 61, 60323 Frankfurt am Main, Germany",
+			"img": "images/tree.svg",
+			"phone": "+49 69 21233939",
+			"coordinates": { "latitude": 50.125761, "longitude": 8.652222 }
+		},
+		{
+			"type": "parks",
+			"location": "Frankfurt",
+			"title": "Grüneburgpark",
+			"description": "A large public park in the Westend district, perfect for leisurely walks and picnics.",
+			"address": "August-Siebert-Straße, 60323 Frankfurt am Main, Germany",
+			"img": "images/tree.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.128146, "longitude": 8.663429 }
+		},
+		{
+			"type": "parks",
+			"location": "Frankfurt",
+			"title": "Nizza Park",
+			"description": "A picturesque park along the Main River, known for its Mediterranean plants and riverside views.",
+			"address": "Untermainkai, 60329 Frankfurt am Main, Germany",
+			"img": "images/tree.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.105162, "longitude": 8.679999 }
+		},
+		{
+			"type": "parks",
+			"location": "Frankfurt",
+			"title": "Ostpark",
+			"description": "A spacious park with sports facilities, playgrounds, and a serene lake, ideal for outdoor activities.",
+			"address": "Ostparkstraße, 60314 Frankfurt am Main, Germany",
+			"img": "images/tree.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.113706, "longitude": 8.728623 }
+		},
+		{
+			"type": "parks",
+			"location": "Frankfurt",
+			"title": "Bethmannpark",
+			"description": "A small, charming park featuring a Chinese garden, perfect for a peaceful escape in the city.",
+			"address": "Friedberger Landstraße, 60316 Frankfurt am Main, Germany",
+			"img": "images/tree.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.121153, "longitude": 8.689892 }
+		}
+	],
+	"parking": [
+		{
+			"type": "parking",
+			"location": "Frankfurt",
+			"title": "Parkhaus Hauptbahnhof",
+			"description": "Parking facility located at Frankfurt's central train station, ideal for travelers.",
+			"address": "Poststraße 5, 60329 Frankfurt am Main, Germany",
+			"img": "images/parking.svg",
+			"phone": "+49 69 36504250",
+			"coordinates": { "latitude": 50.106765, "longitude": 8.662881 }
+		},
+		{
+			"type": "parking",
+			"location": "Frankfurt",
+			"title": "Parkhaus MyZeil",
+			"description": "Convenient parking located at the MyZeil shopping center in the heart of Frankfurt.",
+			"address": "Junghofstraße 16, 60313 Frankfurt am Main, Germany",
+			"img": "images/parking.svg",
+			"phone": "+49 69 2972370",
+			"coordinates": { "latitude": 50.11427, "longitude": 8.677579 }
+		},
+		{
+			"type": "parking",
+			"location": "Frankfurt",
+			"title": "Parkhaus Dom Römer",
+			"description": "Parking garage near the historic Römer building and Frankfurt Cathedral.",
+			"address": "Domstraße 1, 60311 Frankfurt am Main, Germany",
+			"img": "images/parking.svg",
+			"phone": "+49 69 21248870",
+			"coordinates": { "latitude": 50.111487, "longitude": 8.685258 }
+		},
+		{
+			"type": "parking",
+			"location": "Frankfurt",
+			"title": "Parkhaus Oper",
+			"description": "Parking facility close to the Alte Oper concert hall and the financial district.",
+			"address": "Opernplatz 1, 60313 Frankfurt am Main, Germany",
+			"img": "images/parking.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.114067, "longitude": 8.671841 }
+		},
+		{
+			"type": "parking",
+			"location": "Frankfurt",
+			"title": "Parkhaus Westend",
+			"description": "Parking garage located in the Westend district, close to the Palmengarten.",
+			"address": "Im Trutz Frankfurt 49, 60322 Frankfurt am Main, Germany",
+			"img": "images/parking.svg",
+			"phone": "+49 69 743495",
+			"coordinates": { "latitude": 50.125145, "longitude": 8.659321 }
+		}
+	],
+	"services": [
+		{
+			"type": "services",
+			"location": "Frankfurt",
+			"title": "Frankfurt Health Clinic",
+			"description": "A modern healthcare facility providing a wide range of medical services.",
+			"address": "Kaiserstraße 16, 60311 Frankfurt am Main, Germany",
+			"img": "images/gear.svg",
+			"phone": "+49 69 87654321",
+			"coordinates": { "latitude": 50.110247, "longitude": 8.682745 }
+		},
+		{
+			"type": "services",
+			"location": "Frankfurt",
+			"title": "Frankfurt International School",
+			"description": "An international school offering a comprehensive education for students of all ages.",
+			"address": "An der Waldlust 15, 61440 Oberursel, Germany",
+			"img": "images/gear.svg",
+			"phone": "+49 6171 20240",
+			"coordinates": { "latitude": 50.201001, "longitude": 8.555671 }
+		},
+		{
+			"type": "services",
+			"location": "Frankfurt",
+			"title": "Frankfurt City Library",
+			"description": "A large public library with an extensive collection of books and digital resources.",
+			"address": "Hasengasse 4, 60311 Frankfurt am Main, Germany",
+			"img": "images/gear.svg",
+			"phone": "+49 69 21234741",
+			"coordinates": { "latitude": 50.112767, "longitude": 8.685478 }
+		},
+		{
+			"type": "services",
+			"location": "Frankfurt",
+			"title": "Frankfurt Tourist Information",
+			"description": "Official visitor center providing maps, brochures, and information about Frankfurt.",
+			"address": "Römerberg 27, 60311 Frankfurt am Main, Germany",
+			"img": "images/gear.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.110248, "longitude": 8.682054 }
+		},
+		{
+			"type": "services",
+			"location": "Frankfurt",
+			"title": "Frankfurt Police Station",
+			"description": "Main police station serving the city of Frankfurt, ensuring public safety and security.",
+			"address": "Adickesallee 70, 60322 Frankfurt am Main, Germany",
+			"img": "images/gear.svg",
+			"phone": "+49 69 7550",
+			"coordinates": { "latitude": 50.133537, "longitude": 8.677218 }
+		}
+	],
+	"events": [
+		{
+			"type": "events",
+			"location": "Frankfurt",
+			"title": "Frankfurt Book Fair",
+			"description": "The world's largest trade fair for books, attracting publishers, authors, and readers from around the globe.",
+			"address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main, Germany",
+			"img": "images/calendar.svg",
+			"phone": "+49 69 75750",
+			"coordinates": { "latitude": 50.111576, "longitude": 8.647989 }
+		},
+		{
+			"type": "events",
+			"location": "Frankfurt",
+			"title": "Frankfurt Christmas Market",
+			"description": "A festive holiday market with traditional foods, handmade gifts, and seasonal entertainment.",
+			"address": "Römerberg, 60311 Frankfurt am Main, Germany",
+			"img": "images/calendar.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.110924, "longitude": 8.682127 }
+		},
+		{
+			"type": "events",
+			"location": "Frankfurt",
+			"title": "Luminale",
+			"description": "A light art and technology festival that transforms Frankfurt's buildings and spaces into luminous works of art.",
+			"address": "Various locations, 60329 Frankfurt am Main, Germany",
+			"img": "images/calendar.svg",
+			"phone": "+49 69 24742002",
+			"coordinates": { "latitude": 50.110924, "longitude": 8.682127 }
+		},
+		{
+			"type": "events",
+			"location": "Frankfurt",
+			"title": "Museumsuferfest",
+			"description": "An annual festival celebrating art and culture with exhibitions, performances, and food along the Main River.",
+			"address": "Schaumainkai, 60596 Frankfurt am Main, Germany",
+			"img": "images/calendar.svg",
+			"phone": "+49 69 21238800",
+			"coordinates": { "latitude": 50.103643, "longitude": 8.681198 }
+		},
+		{
+			"type": "events",
+			"location": "Frankfurt",
+			"title": "Frankfurt Marathon",
+			"description": "An international marathon event attracting runners from all over the world to compete in the heart of Frankfurt.",
+			"address": "Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main, Germany",
+			"img": "images/calendar.svg",
+			"phone": "+49 69 370046840",
+			"coordinates": { "latitude": 50.111576, "longitude": 8.647989 }
+		}
+	]
+}
